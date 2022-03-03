@@ -1,13 +1,13 @@
 div {
-  background-color: yellow;
+  background-color: green;
   width: 400px;
   height: 800px;
 }
 
-.testerson {
+.button {
   background-color: red;
   width: 400px;
   height: 800px;
-  color: red;
+  color: white;
   padding: 12px;
 }
